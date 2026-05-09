@@ -1,0 +1,8 @@
+{
+  "name": "nonfiction-director-cut",
+  "version": "1.0.0",
+  "description": "把非虚构内容改写成中文读者更容易读懂、愿意读完的导演剪辑版解读 — Skill for Claude Code",
+  "author": "Reese0302",
+  "license": "CC BY-NC-SA 4.0",
+  "keywords": ["claude-code", "skill", "nonfiction", "chinese", "director-cut"]
+}
