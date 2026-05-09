@@ -67,14 +67,14 @@
 ## 安装
 
 ```bash
-npx skills add Reese0302/nonfiction-director-cut
+npx skills add Reese0302/Reese0302-nonfiction-director-cut
 ```
 
 或手动安装：
 
 ```bash
-git clone https://github.com/Reese0302/nonfiction-director-cut.git
-cp -r nonfiction-director-cut ~/.claude/skills/
+git clone https://github.com/Reese0302/Reese0302-nonfiction-director-cut.git
+cp -r Reese0302-nonfiction-director-cut ~/.claude/skills/nonfiction-director-cut
 ```
 
 ## 基本使用方式
