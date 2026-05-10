@@ -270,6 +270,10 @@ migration/blue-book-reference-map.md
 本仓库不包含任何未授权书籍全文、文章全文、用户材料或付费内容摘录。
 
 使用本 Skill 处理具体书籍、文章或其他材料时，请遵守相应内容的版权要求。对于原书或原文内容，应尽量转述，避免大段复制。
+## 特别致谢
+agentskillshub：https://agentskillshub.top/ 
+在一开始我的所有信息全部放在skill.md。
+如今这样的结构化处理主要遵循了agentskillshub的蓝皮书的格式。
 
 ## License
 
